@@ -1,2 +1,6 @@
 .bundle
 *.gem
+node_modules
+yarn*
+yarn.*
+package.json
