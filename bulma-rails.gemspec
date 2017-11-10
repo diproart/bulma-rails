@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |gem|
   gem.name          = 'bulma-rails'
-  gem.version       = '0.6.0'
-  gem.authors       = ["Joshua Jansen"]
-  gem.email         = ["joshuajansen88@gmail.com"]
+  gem.version       = '0.6.1'
+  gem.authors       = ["Alexey Volkov"]
+  gem.email         = ["diproart@gmail.com"]
   gem.description   = %q{A modern CSS framework based on Flexbox}
   gem.summary       = %q{This gem adds the bulma.io assets to your asset pipeline so you can import them in your Rails project.}
   gem.homepage      = "https://github.com/joshuajansen/bulma-rails"
