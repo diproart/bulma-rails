@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name          = 'bulma-rails'
-  gem.version       = '0.6.1'
+  gem.version       = '0.6.1-1'
   gem.authors       = ["Alexey Volkov"]
   gem.email         = ["diproart@gmail.com"]
   gem.description   = %q{A modern CSS framework based on Flexbox and Utilities}
