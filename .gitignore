@@ -4,3 +4,4 @@ node_modules
 yarn*
 yarn.*
 package.json
+clean-extensions.sh

@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |gem|
   gem.name          = 'bulma-rails'
-  gem.version       = '0.6.1-1'
+  gem.version       = '0.6.1-2'
   gem.authors       = ["Alexey Volkov"]
   gem.email         = ["diproart@gmail.com"]
   gem.description   = %q{A modern CSS framework based on Flexbox and Utilities}
-  gem.summary       = %q{This gem adds the bulma.io, bulma extensions, bulma themes assets to your asset pipeline so you can import them in your Rails project.}
+  gem.summary       = %q{This gem adds the bulma.io, bulma extensions, bulmaswatch assets to your asset pipeline so you can import them in your Rails project.}
   gem.homepage      = "https://github.com/diproart/bulma-rails"
 
   gem.files         = `git ls-files`.split($\)
