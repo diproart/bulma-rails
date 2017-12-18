@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |gem|
-  gem.name          = 'bulma-rails'
+  gem.name          = 'diproart-bulma-rails'
   gem.version       = '0.6.1-2'
   gem.authors       = ["Alexey Volkov"]
   gem.email         = ["diproart@gmail.com"]
