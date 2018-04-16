@@ -2,8 +2,6 @@
 
 Bulma is a **modern CSS framework** based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/5pucRKHwhsqiAiYS1CdnS4SM/jgthms/bulma'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/5pucRKHwhsqiAiYS1CdnS4SM/jgthms/bulma.svg' /></a>
-
 [![npm](https://img.shields.io/npm/v/bulma.svg)](https://www.npmjs.com/package/bulma)
 [![npm](https://img.shields.io/npm/dm/bulma.svg)](https://www.npmjs.com/package/bulma)
 [![Join the chat at https://gitter.im/jgthms/bulma](https://badges.gitter.im/jgthms/bulma.svg)](https://gitter.im/jgthms/bulma)
@@ -20,6 +18,7 @@ Bulma is constantly in development! Try it out now:
 ```sh
 npm install bulma
 ```
+
 **or**
 
 ### Yarn
@@ -32,6 +31,13 @@ yarn add bulma
 
 ```sh
 bower install bulma
+```
+
+### Import
+After installation, you can import the CSS file into your project using this snippet:
+
+```sh
+import 'bulma/css/bulma.css'
 ```
 
 ### CDN
@@ -83,13 +89,18 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 | [vue-bulma-components](https://github.com/vouill/vue-bulma-components)             | Bulma components for Vue.js with straightforward syntax            |
 | [BulmaJS](https://github.com/VizuaaLOG/BulmaJS)                                    | Javascript integration for Bulma. Written in ES6 with a data-* API |
 | [Bulma.styl](https://github.com/log1x/bulma.styl)                                  | 1:1 Stylus translation of Bulma                                    |
-| [elm-bulma-classes](https://github.com/danielnarey/elm-bulma-classes)              | Bulma prepared for usage with ELM                                  |
+| [elm-bulma](https://github.com/surprisetalk/elm-bulma)                             | Bulma + Elm                                                        |
+| [elm-bulma-classes](https://github.com/ahstro/elm-bulma-classes)                   | Bulma classes prepared for usage with Elm                          |
 | [Bulma Customizer](https://bulma-customizer.bstash.io/)                            | Bulma Customizer &#8211; Create your own **bespoke** Bulma build   |
 | [Fulma](https://mangelmaxime.github.io/Fulma/)                                     | Wrapper around Bulma for [fable-react](https://github.com/fable-compiler/fable-react)   |
 | [Laravel Enso](https://github.com/laravel-enso/enso)                               | SPA Admin Panel built with Bulma, VueJS and Laravel 			      |
 | [Django Bulma](https://github.com/timonweb/django-bulma)                           | Integrates Bulma with Django 			    |
 | [Bulma Templates](https://github.com/dansup/bulma-templates)                       | Free Templates for Bulma                       |
+| [React Bulma Components](https://github.com/couds/react-bulma-components)          | Another React wrap on React for Bulma.io                           |
+| [purescript-bulma](https://github.com/sectore/purescript-bulma)                    | PureScript bindings for Bulma                                      |
+| [Vue Datatable](https://github.com/laravel-enso/vuedatatable)                      | Bulma themed datatable based on Vue, Laravel & JSON templates      |
+| [bulma-fluent](https://mubaidr.github.io/bulma-fluent/)                            | Fluent Design Theme for Bulma inspired by Microsoft’s Fluent Design System      |
 
 ## Copyright and license
 
-Code copyright 2017 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE).
+Code copyright 2018 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE).
